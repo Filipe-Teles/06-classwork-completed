@@ -1,0 +1,29 @@
+      🦩 🦆 🦩 🦆 🦩 🦆 🦩 🦆 🦩 
+        Happy Wednesday!!!!!
+
+    1. Download 06-classwork.zip
+    2. Get on Slack!
+    3. Do the Do Now
+    4. Accept a datawrapper invite to
+     the team if you have one pending
+    5. GET EXCITED????????
+
+6. Create a github.com account
+7. Download GitHub Desktop from
+    https://desktop.github.com/
+
+       🦩 🦆 🦩 🦆 🦩 🦆 🦩 🦆 🦩
+
+git -> a piece of software that allows you collaborate with other people or do VERSION CONTROL
+GitHub -> a magic website where people can upload all of their code??? git is awful software on your computer, github is a website
+GitHub Desktop -> lets us use git in a way that connects to GitHub more easily and we are less likely to run into problems????
+
+
+repository = folder that is connected to git or github
+
+
+# make a folder and put your notebook in it!
+
+save -> it doesn't automatically update ANYTHING
+save -> make a "commit" checkpoint/REAL save/telling git please remember this moment forever
+
