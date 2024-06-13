@@ -1,2 +1,2 @@
-# 06-classwork-completed - FT
+# 06-classwork-completed
  
